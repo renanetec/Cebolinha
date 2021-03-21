@@ -10,7 +10,7 @@ namespace cebolinha
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Yellow;
             string boasvindas = "Bem Vindo!";
-            string explicação = "digite aqui:O rato roeu a roupa do rei de roma";
+            string explicação = "digite aqui:";
             //digite acima:O rato roeu a roupa do rei de roma
             //salve, e depois execute no terminal o comando "dotnet run"
             string mensagem = $@"{boasvindas}
